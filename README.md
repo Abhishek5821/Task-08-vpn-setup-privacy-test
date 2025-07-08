@@ -19,7 +19,7 @@ To understand how VPNs protect privacy and provide secure communication by using
 ## Observations
 
 - **VPN IP**: 138.199.xx.xx (Tokyo)
-- **Real IP**: 103.xx.xx.xx (India)
+- **Real IP**: 152.59.xx.xx (India)
 - **Speed**: Slightly slower when VPN is on
 - **Encryption**: AES-256-bit (industry standard)
 
